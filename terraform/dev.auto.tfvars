@@ -1,2 +1,2 @@
-genesyscloud_scripting_env = "use1"
-genesyscloud_scripting_url = "https://apps.mypurecloud.com"
+genesyscloud_scripting_env = "usw2"
+genesyscloud_scripting_url = "https://apps.usw2.pure.cloud"
