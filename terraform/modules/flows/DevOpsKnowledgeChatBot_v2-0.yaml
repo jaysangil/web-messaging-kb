@@ -1,7 +1,7 @@
 botFlow:
   name: {{flow_name}}
   description: Bot flow for DevOps knowledge base
-  division: New Home
+  division: Home
   startUpRef: "/botFlow/bots/bot[Default Bot_10]"
   defaultLanguage: {{default_language}}
   supportedLanguages:
